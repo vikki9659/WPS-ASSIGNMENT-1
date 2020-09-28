@@ -1,0 +1,12 @@
+a {color:blueviolet; } 
+h3{color :  black;} 
+.two{font-size:50px ; background-color: white; color: tomato;}
+
+.three{font-size: 50px;}
+*{font-family:'Times New Roman', Times, serif;}     
+*{
+    margin-top: 18px;
+    margin-bottom: 18px;
+    margin-left: 18px;
+    margin-right: 18px;
+}
